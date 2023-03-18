@@ -8,7 +8,7 @@ with folks having interest in medical imaging to learn together.
 Prerequisite : Anaconda or Miniconda installed
 
 1] git pull https://github.com/DANISHEAZAM/Medical-Imaging.git
-- cd Medical-Imaging
+1.1] cd Medical-Imaging
 2] conda create --name <env_name> --file requirements.txt
 3] conda activate <env_name>
 4] jupyter notebook
